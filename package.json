@@ -1,0 +1,25 @@
+{
+  "name": "note-expert",
+  "version": "1.0.0",
+  "description": "Repository for Challenge 11",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/james661/note-expert.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/james661/note-expert/issues"
+  },
+  "homepage": "https://github.com/james661/note-expert#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^3.4.0"
+  }
+}
